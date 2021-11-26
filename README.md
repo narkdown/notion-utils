@@ -4,7 +4,7 @@
 
 [![codecov](https://codecov.io/gh/narkdown/notion-utils/branch/main/graph/badge.svg)](https://codecov.io/gh/narkdown/notion-utils)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
-[![Version: v0.1.0](https://img.shields.io/badge/Version-v0.1.0-green)](https://github.com/narkdown/client/releases/tag/v0.1.0)
+[![npm version](https://badge.fury.io/js/@narkdown%2Fnotion-utils.svg)](https://badge.fury.io/js/@narkdown%2Fnotion-utils)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 ## Install
